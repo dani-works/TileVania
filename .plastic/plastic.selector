@@ -1,4 +1,0 @@
-repository "Tile Vania@MosiGamer@cloud"
-  path "/"
-    br "/main"
-    co "/main"
